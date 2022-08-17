@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "price": 10000,
+      "category": "Venda",
+      "description": "Desenvolvimento do site",
+      "createdAt": "2022-08-15T19:36:44.505Z",
+      "type": "income"
+    },
+    {
+      "id": "2",
+      "price": 20,
+      "category": "Comida",
+      "description": "Hamburger",
+      "createdAt": "2022-08-18T19:36:44.505Z",
+      "type": "outcome"
+    },
+    {
+      "id": "3",
+      "price": 6000,
+      "category": "Viagem",
+      "description": "Passagem para o RS",
+      "createdAt": "2022-01-15T19:36:44.505Z",
+      "type": "outcome"
+    },
+    {
+      "id": "4",
+      "price": 500,
+      "category": "Venda",
+      "description": "Desenvolvimento do site",
+      "createdAt": "2022-08-15T19:36:44.505Z",
+      "type": "outcome"
+    },
+    {
+      "id": "5",
+      "price": 2000,
+      "category": "PC",
+      "description": "Monitor",
+      "createdAt": "2022-07-11T19:36:44.505Z",
+      "type": "outcome"
+    },
+    {
+      "id": "6",
+      "price": 200,
+      "category": "Show",
+      "description": "Ingresso",
+      "createdAt": "2022-11-15T19:36:44.505Z",
+      "type": "outcome"
+    },
+    {
+      "description": "Campeonato",
+      "price": 120,
+      "category": "BT",
+      "type": "outcome",
+      "createdAt": "2022-08-17T14:23:53.267Z",
+      "id": "2c6PMGP"
+    },
+    {
+      "description": "Construtec",
+      "price": 50000,
+      "category": "Dev",
+      "type": "income",
+      "createdAt": "2022-08-17T14:24:30.823Z",
+      "id": "KY6gBVD"
+    }
+  ]
+}
