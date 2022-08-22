@@ -9,7 +9,7 @@ export function useSummary() {
 
   // {income: 0, outcome: 0, total: 0}
   const sumarry = useMemo(() => {
-    transactions.reduce(
+    return transactions.reduce(
       (acc, transaction) => {
         switch (transaction.type) {
           case 'income':
