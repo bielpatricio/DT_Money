@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <img src="src/assets/logo.svg" alt="Logo" width="160" height="160">
-  <h1 align="center">Ignite Timer</h3>
+  <h1 align="center">DT Money</h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
